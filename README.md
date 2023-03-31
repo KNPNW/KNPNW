@@ -1,6 +1,7 @@
 ## Hi everyone, my name is Kirill👋🏻
-## 👨‍💻 About me
-## 📞 Contact me
+## About me
+Student of the Higher School of Economics on the bachelor's program in Information Science and Computation Technology (09.03.01), 4th year
+## Contact me
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/KNPNVV)
 <!--
 **KNPNW/KNPNW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
