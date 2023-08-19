@@ -1,6 +1,6 @@
 ## Hi everyone, my name is Kirill👋🏻
 ## About me
-Student of the Higher School of Economics on the Bachelor's programme **Information Science and Computation Technology** (09.03.01), 4th year
+Graduated from the Higher School of Economics under the Bachelor's degree program **Computer Science and Computing Technologies** (09.03.01)
 ## Contact me
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/KNPNVV)
 [![Linkedin](https://img.shields.io/badge/-linkedin-informational?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kpadalitsa/)
